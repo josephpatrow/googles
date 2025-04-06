@@ -1,0 +1,12 @@
+{
+    "debug.showBreakpointsInOverviewRuler": false,
+    "terminal.integrated.shellIntegration.decorationsEnabled": "both",
+    "editor.overviewRulerBorder": true,
+    "editor.wrappingIndent": "same",
+    "editor.guides.indentation": true,
+    "editor.indentSize": "tabSize",
+    "workbench.tree.renderIndentGuides": "always",
+    "html.format.indentHandlebars": false,
+    "html.format.indentInnerHtml": false,
+    "html.format.wrapAttributesIndentSize": null
+}
